@@ -1,2 +1,2 @@
 # MCPE-Structure
-마인크래프트 포켓에디션 건축물
+Project SY에서 제공하는 마인크래프트PE의 건축물들을 만나보세요.
